@@ -1,4 +1,4 @@
-![Laffey-Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laffey-chana&show_icons=true&theme=tokyonight)
+![Laffey-Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laffey-chan&show_icons=true&theme=tokyonight)
 
 
 <!--
